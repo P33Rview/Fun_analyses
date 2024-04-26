@@ -12,4 +12,4 @@ https://datalore.jetbrains.com/report/static/CC71UnA73TAvRzZ9BgRc8p/dLeygoKFcunS
 
 3) ## **Crypto Profit Calculator**:
 
-I was curious how my crypto assets were performing, so I devised a basic profit calculator by comparing the buy price with the Coinmarketcap's API.
+I was curious how my crypto assets were performing, so I devised a basic profit calculator by comparing the buy price with the Coinmarketcap's API (https://coinmarketcap.com/api/).
