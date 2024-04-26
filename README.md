@@ -9,3 +9,7 @@ An analysis, that uncovers several insights of the Parliament elections in Czech
 In this analysis, I was interested in which coming years will be the best in terms of the most public holidays on a weekday. I was only interested in holidays, which were fixed to a certain date. The results are stored as a simple dashboard in the following link:
 
 https://datalore.jetbrains.com/report/static/CC71UnA73TAvRzZ9BgRc8p/dLeygoKFcunSmfOYjxbVkX
+
+3) ## **Crypto Profit Calculator**:
+
+I was curious how my crypto assets were performing, so I devised a basic profit calculator by comparing the buy price with the Coinmarketcap's API.
