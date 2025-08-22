@@ -20,7 +20,7 @@ I was curious how my crypto assets were performing, so I devised a basic profit 
 
 Notebook: https://github.com/P33Rview/Fun_analyses/blob/master/Coinbase%20crypto%20tracker.ipynb
 
-4) ## **Predicting Savings Account open rate
+4) ## **Predicting Savings Account open rate**:
 
 In this project, I predict how likely a new or current customer is to open a savings account in a bank using a logistic regression.
 
